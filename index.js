@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let correctAnswer = Math.round(Math.random());
   
     
-    let remainingGuesses = 2;
+    let remainingGuesses = 3;
   
     
     const app = document.getElementById('app');
